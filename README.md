@@ -1,16 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Silomalo
 ================================================================================================================================
 
-C++, React, Python and PHP Developer
+C++, Rust, React(NextJS), Python and PHP(Laravel) Developer
 ------------------------------------
 
-Experience: Hardworking listing programmer with a knack for coming up with elegant solutions in the shortest period possible. Created SHOPIFY, a shop management system, and constructed an eCommerce system for Futuretech Computers to help with internet marketing as a freelance programmer. In addition, for Zuri health care in Eldoret, I designed a hospital administration system. I'd want to put my programming abilities to work on improving the efficiency of your project. Interest: As a developer my interest is in: • Web design using Laravel and React. • API integration using Flask and React. • Machine Learning using python. • Embeded systems using C++ & Python.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [Truecode Developers](http://www.truecode.co.ke/)
 * ✉️  You can contact me at [silomalojoseph@gmail.com](mailto:silomalojoseph@gmail.com)
-* 🚀  I'm currently working on [Truecode Site](http://www.truecode.co.ke/)
-* 🧠  I'm learning Next, nodejs, MongoDB
+* 🚀  I'm currently working on [AAS](https://aasciences.africa/)
+* 🧠  I'm learning GO, embeded systems, MongoDB
 * 🤝  I'm open to collaborating on Front-end and backend (Fullstack on web development)
 * ⚡  I am pationate in Machine leaning and embeded systems
 
@@ -62,17 +61,11 @@ src="https://img.shields.io/github/followers/silomalo?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/silomalo"><img src="https://github-readme-stats.vercel.app/api?username=silomalo&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="silomalo's GitHub stats" /></a>
 
 <a href="http://www.github.com/silomalo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=silomalo&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/silomalo"><img src="https://activity-graph.herokuapp.com/graph?username=silomalo&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/silomalo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silomalo&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/silomalo/mpesaSDK-with-laravel8.83" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=silomalo&repo=mpesaSDK-with-laravel8.83&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/silomalo/React-framer-motion" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=silomalo&repo=React-framer-motion&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
