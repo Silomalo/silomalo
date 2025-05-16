@@ -6,7 +6,7 @@ C++, Rust, React(NextJS), Python and PHP(Laravel) Developer
 
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🖥️  See my portfolio at [Truecode Developers](http://www.truecode.africa/)
+* 🖥️  See my portfolio at [Web Portifolio](http://silomalo.truecode.africa/)
 * ✉️  You can contact me at [silomalojoseph@gmail.com](mailto:silomalojoseph@gmail.com)
 * 🧠  I'm learning GO, embeded systems, MongoDB
 * 🤝  I'm open to collaborating on Front-end and backend (Fullstack on web development)
